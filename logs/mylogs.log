@@ -1,0 +1,168 @@
+20240624 23:21:00 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:22:16 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:22:52 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:23:29 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:30:01 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:31:22 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:37:22 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:38:03 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:47:19 INFO  [main] test.TestLog TestLog.java13 - chrome browser has started
+20240624 23:47:19 INFO  [main] test.TestLog TestLog.java14 - application has opned in the broswer
+20240624 23:47:19 ERROR [main] test.TestLog TestLog.java20 - cannot divide by 0
+java.lang.ArithmeticException: / by zero
+	at com.Salesforce.test.TestLog.main(TestLog.java:17) [test-classes/:?]
+20240624 23:47:19 FATAL [main] test.TestLog TestLog.java23 - fatal information
+20240624 23:47:19 INFO  [main] test.TestLog TestLog.java24 - abrowser closed
+20240624 23:47:29 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240624 23:55:08 INFO  [main] test.TestLog TestLog.java13 - chrome browser has started
+20240624 23:55:08 INFO  [main] test.TestLog TestLog.java14 - application has opned in the broswer
+20240624 23:55:08 ERROR [main] test.TestLog TestLog.java20 - cannot divide by 0
+java.lang.ArithmeticException: / by zero
+	at com.Salesforce.test.TestLog.main(TestLog.java:17) [test-classes/:?]
+20240624 23:55:08 FATAL [main] test.TestLog TestLog.java23 - fatal information
+20240624 23:55:08 INFO  [main] test.TestLog TestLog.java24 - abrowser closed
+20240624 23:55:17 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240625 00:00:12 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240625 00:00:24 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java106 - Home Page ~ Salesforce - Developer Edition
+20240625 00:00:24 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240626 10:08:36 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240626 10:08:59 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java106 - Home Page ~ Salesforce - Developer Edition
+20240626 10:09:01 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240626 11:35:31 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240626 11:38:36 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240626 12:14:10 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240627 00:34:25 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240627 00:34:34 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240627 00:34:40 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240708 23:41:06 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240708 23:41:23 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java106 - Home Page ~ Salesforce - Developer Edition
+20240708 23:41:23 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240708 23:41:23 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240708 23:41:33 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240708 23:41:38 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240708 23:41:38 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240708 23:41:46 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java106 - Home Page ~ Salesforce - Developer Edition
+20240708 23:41:46 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240708 23:41:46 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240708 23:49:30 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240708 23:50:57 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240708 23:51:05 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240708 23:52:24 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240708 23:52:27 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240708 23:53:18 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240708 23:54:12 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240708 23:54:21 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java106 - Home Page ~ Salesforce - Developer Edition
+20240708 23:54:21 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240708 23:58:33 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:00:23 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:00:33 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:02:53 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:03:03 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:03:40 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:04:01 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:05:15 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:05:26 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:06:28 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:06:32 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:08:42 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:08:48 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:17:03 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:17:15 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 00:18:08 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:18:18 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 00:18:24 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:19:11 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:19:21 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 00:19:55 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:22:01 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:22:14 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 00:22:42 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:27:04 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:27:18 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 00:27:29 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:31:11 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:31:24 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 00:31:34 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:32:51 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:33:03 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 00:35:44 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:36:00 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 00:36:10 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:37:22 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:37:38 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 00:37:47 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:38:03 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:38:14 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 00:38:24 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:45:49 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:46:01 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java104 - Home Page ~ Salesforce - Developer Edition
+20240709 00:46:11 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:51:35 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:51:48 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 00:52:03 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:53:19 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:53:30 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 00:53:49 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:55:59 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:56:26 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java104 - Home Page ~ Salesforce - Developer Edition
+20240709 00:56:34 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:57:45 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:58:01 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java104 - Home Page ~ Salesforce - Developer Edition
+20240709 00:58:26 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 00:59:34 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 00:59:47 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 01:00:01 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:07:47 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:08:06 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:08:17 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java104 - Home Page ~ Salesforce - Developer Edition
+20240709 01:08:23 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:08:54 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:09:09 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java104 - Home Page ~ Salesforce - Developer Edition
+20240709 01:09:28 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:15:27 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:15:48 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java104 - Home Page ~ Salesforce - Developer Edition
+20240709 01:16:26 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:28:39 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:28:57 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:31:27 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:31:39 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:34:57 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:35:31 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:39:35 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:39:48 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java104 - Home Page ~ Salesforce - Developer Edition
+20240709 01:39:49 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:39:49 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:40:02 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 01:40:07 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:40:07 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:40:19 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java104 - Home Page ~ Salesforce - Developer Edition
+20240709 01:40:20 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:40:20 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:40:25 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:40:25 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:40:36 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:40:36 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:40:42 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:40:42 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:41:02 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:41:02 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:41:13 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java104 - Home Page ~ Salesforce - Developer Edition
+20240709 01:41:14 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:41:14 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:41:27 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 01:41:33 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:41:33 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:41:46 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 01:41:56 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:41:56 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:42:09 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 01:42:20 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:42:20 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:42:32 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 01:43:15 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:43:15 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:43:31 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 01:43:37 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
+20240709 01:43:37 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java36 - ****************setUpBeforeMethod*******************
+20240709 01:43:52 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java64 - Home Page ~ Salesforce - Developer Edition
+20240709 01:44:04 INFO  [main] base.BaseSFfunctionality BaseSFfunctionality.java45 - ****************tearDownAfterTestMethod*******************
